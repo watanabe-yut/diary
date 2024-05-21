@@ -1,4 +1,4 @@
-# 日誌（watanabey）
+# 日誌（watanabe-yut）
 ## 2024/5/21(Tue)
 ### 作業内容
 - TI全体像の把握
