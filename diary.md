@@ -1,14 +1,18 @@
 # 日誌（watanabe-yut）
 
-## WIP:2024/5/22(Tue)
+## 2024/5/22(Tue)
 ### 作業内容
 - 岡部さんの論文の調査報告資料の読み込み
+  - 中身は概ね把握
   - マルチモーダルクレーム抽出のキーワード：pixel based language model, variational autoencoder，attention mechanisms，graph neural networks
   - マルチモーダルコンテンツのクレーム抽出では、コンテキストの考慮がより重要になる
-
-- 新人研修プログラム（ACS CPJの研究紹介、富士通研究所の紹介）
-- 管理基盤チーム定例
+  - サーベイ論文を見て、どこを深めていくかを決めよう
+- 新人研修（ACS CPJの研究紹介）
+- 新人研修（富士通研究所の紹介）
+  - とても参考になった。メモを繰り返し見直そう
+- 管理基盤チーム定例（トークカフェ参加のため途中まで）
 - トークカフェ発表
+  - 自己紹介
 
 ### タスク
 - issue#527
@@ -17,13 +21,19 @@
   - factoolのソースを読んで理解（https://github.com/fjdtaas/factool/tree/main ←これ？）
   - 山本さんのアドバイス（TI分析定例5/16）にしたがって、過去の偽情報の事例から、手作業でやってみるクレーム抽出とLLMのクレーム抽出を比較してみる
 - その他
+  - 20240528CTO向け資料（https://fujitsu.sharepoint.com/:p:/r/sites/jp-SecurityLaboratory/_layouts/15/Doc.aspx?sourcedoc=%7B9FA83C2E-AAA6-4D70-99B2-3D74315CE14B%7D&file=20240528CTO%25u5b9a%25u4f8b%25u3080%25u3051%25u8cc7%25u6599.pptx&action=edit&mobileredirect=true） を読む
   - 鈴木さんのTIアーキ検討資料を読む
   - 5/30所会の準備
   - 社内chatAIの設定
-  - ヘッドセット、書籍など買いたい
-  - 会社のメアドをISECのgitに載せてよいか確認
+  - ヘッドセット、iPad、書籍など買いたい
+  - 会社のメアドをISECのgitのREADMEに載せてよいか確認
   - 特徴量抽出やモデルの学習などのワードがあるので、機械学習の勉強などが必要？であればおすすめの教科書など知りたい
+  - 名刺を作りたい
 
+
+### Tips
+- FRPの用語集（https://documents.research.global.fujitsu.com/trustable-internet/glossary/）がかなり助かるかも
+- gitのti-dev/docsのサブブランチにホワイトペーパーのmdがあるから見てみると全体像把握の参考になりそう
 
 
 
