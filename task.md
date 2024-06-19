@@ -49,6 +49,10 @@
 
 
 ### 時間があるときに見ておくべきドキュメント類
+- MMCE周辺
+  - 宮前さんのサーベイ
+  - FDNSの勉強会資料
+  - 山下さんのたたき台
 - コンサル研修のスライドライティング
 - [技術棚卸し](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1715568018742&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAzMzEwMTgxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FCommon%2F2024%E5%B9%B4%E5%BA%A6%2F%E6%8A%80%E8%A1%93%E6%A3%9A%E5%8D%B8%E3%81%97&viewid=45e20bc0%2D041a%2D43dd%2Da3ca%2D037439d3db4b)
 - [鈴木さんのTI全体アーキ資料](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1715568018742&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAzMzEwMTgxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FSocialTrustCPJ%2FGr%5FTrustableInternet%2F%E3%82%A2%E3%83%BC%E3%82%ADG%2F%E5%85%A8%E4%BD%93%E3%82%A2%E3%83%BC%E3%82%AD&viewid=45e20bc0%2D041a%2D43dd%2Da3ca%2D037439d3db4b)
