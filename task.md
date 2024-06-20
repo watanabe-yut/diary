@@ -58,3 +58,4 @@
 - [20240418山下さんのGitHubレクチャー会](https://fujitsu.sharepoint.com/:p:/r/sites/jp-SecurityLaboratory/_layouts/15/Doc.aspx?sourcedoc=%7B2D9620C1-2D15-4505-BF6B-AF65DE40A231%7D&file=20240418_GitHub%25u30ec%25u30af%25u30c1%25u30e3%25u30fc%25u4f1a.pptx&action=edit&mobileredirect=true)
 
 ### Tips
+- あろはさんにコンピ研にうつった経緯をきいてみよう
