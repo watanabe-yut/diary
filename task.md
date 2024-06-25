@@ -4,7 +4,6 @@
 - [eL]仕事と介護の両立のために
 - kakeaiで今井さんとの1on1予約
 - ipadの申請がどうなってるかチェック
-- クロサカさんの講演のデモ動画アップ
 - 名刺管理ツールsansan導入
 
 
@@ -41,9 +40,8 @@
 
 ### 時間があるときに見ておくべきドキュメント類
 - MMCE周辺
-  - 宮前さんのサーベイ
-  - FDNSの勉強会資料
-  - 山下さんのたたき台
+  - [宮前さんのクレーム検出サーベイ&FDNSの勉強会資料](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?csf=1&web=1&e=axQQUJ&ovuser=a19f121d%2D81e1%2D4858%2Da9d8%2D736e267fd4c7%2Cwatanabe%2Eyut%2D14%40jp%2Efujitsu%2Ecom&OR=Teams%2DHL&CT=1718683027713&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDA1MDMwNzYxNyJ9&CID=aaba33a1%2D700b%2D3000%2D7a23%2D01f271747a61&cidOR=SPO&FolderCTID=0x01200026C4BBA8B9C12C4A9490AF5C3F6C378E&id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FSocialTrustCPJ%2FGr%5FTrustableInternet%2F%E3%82%A2%E3%83%BC%E3%82%ADG%2F%E8%AB%96%E6%96%87%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4&viewid=45e20bc0%2D041a%2D43dd%2Da3ca%2D037439d3db4b)
+  - [20240621山下さんのマルチモーダ議論ルたたき台](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FSocialTrustCPJ%2FGr%5FTrustableInternet%2Fissues%2F%23591%5F%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB%E6%A4%9C%E8%A8%8E%E4%BC%9A)
 - コンサル研修のスライドライティング
 - [技術棚卸し](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1715568018742&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAzMzEwMTgxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FCommon%2F2024%E5%B9%B4%E5%BA%A6%2F%E6%8A%80%E8%A1%93%E6%A3%9A%E5%8D%B8%E3%81%97&viewid=45e20bc0%2D041a%2D43dd%2Da3ca%2D037439d3db4b)
 - [鈴木さんのTI全体アーキ資料](https://fujitsu.sharepoint.com/sites/jp-SecurityLaboratory/SC/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1715568018742&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAzMzEwMTgxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fsites%2Fjp%2DSecurityLaboratory%2FSC%2F%E7%A0%94%E7%A9%B6%E5%93%A1%2FSocialTrustCPJ%2FGr%5FTrustableInternet%2F%E3%82%A2%E3%83%BC%E3%82%ADG%2F%E5%85%A8%E4%BD%93%E3%82%A2%E3%83%BC%E3%82%AD&viewid=45e20bc0%2D041a%2D43dd%2Da3ca%2D037439d3db4b)
