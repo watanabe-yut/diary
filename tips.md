@@ -1,7 +1,7 @@
 # Tips
 
 
-## AI研宮崎さんのDeep Learning/NLPの勉強のすすめ
+## 宮崎さん（AI研）のDeep Learning/NLPの勉強のすすめ
 teamsチャットから引用
 
 - Deep Learning / Data Science 全般
